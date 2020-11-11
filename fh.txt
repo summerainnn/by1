@@ -1,0 +1,5 @@
+0 s
+1 mul
+2 test
+3 a
+4 b

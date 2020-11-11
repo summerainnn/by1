@@ -1,0 +1,12 @@
+int main(){
+    int s = 123;
+    mul = s * 2;
+    while(mul > 100)
+    {
+        mul = mul - 1;
+    }
+    test = 320.0/123;
+    int a;
+    int b;
+    a = a / b;
+}
